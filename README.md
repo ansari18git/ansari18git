@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Thamimul Ansari
 
 Software Engineer @ TCS
-<img align="right" width="370" height="290" src="https://octodex.github.com/images/NUX_Octodex.gif">
+<img align="right" width="370" height="290" src="[https://octodex.github.com/images/NUX_Octodex.gif](https://octodex.github.com/images/NUX_Octodex.gif)">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
